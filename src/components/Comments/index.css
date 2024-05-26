@@ -1,0 +1,15 @@
+.bg-container {
+  padding: 40px;
+}
+
+.Form-container {
+  display: flex;
+}
+
+.comments-img {
+  height: 250px;
+}
+
+.comments-heading {
+  display: flex;
+}
